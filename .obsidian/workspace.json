@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09b825edeb5e57d7",
+        "id": "39676e900452e98f",
         "type": "tabs",
         "children": [
           {
-            "id": "861592acb5877df5",
+            "id": "e890d44a84a67ac4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "07 - Strings/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -182,10 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26f651145f73a312",
+  "active": "e890d44a84a67ac4",
   "lastOpenFiles": [
+    "07 - Strings/Untitled.md",
+    "README.md",
     "commit.md",
-    "Phone test.md",
-    "README.md"
+    "Phone test.md"
   ]
 }
